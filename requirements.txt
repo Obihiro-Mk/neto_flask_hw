@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+Flask-SQLAlchemy
+psycopg2-binary
+jsonschema
+requests
